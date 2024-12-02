@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ambatoplant",
+  "private_key_id": "85c4970887169d930d799e7a3dbd1bea6258b102",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC1LS62i7iO3hXL\n8r0d+lccLIlmCytK1Q/61g6c/ooWVEXhx1l6cruxms1Kf2jmC0hwZ7rFsemzRCfF\n8lRdRmxi1PJIMFerVXcC+BGqnxrPNineuPz6z3O5LwHqIbj0+e/hui7sKkm84WDM\ngusnIgQOaW3ewPE+J/V9YqkB/URiWBidvn9tACNbdDR10MorSY0X58yRpmk60oqm\nRwIVCknnsul/C/o8f4SMdqKQVWFznlyEWShCcSOEuk6kbSnxmxUgImYLoByNV0sQ\n2gOx7Qx2qs1UMNtB4QC3ngJeF2DLyMB94mH/msRRhlP4op8OseLab/Vt8q6fD5wY\n0DgwlpofAgMBAAECggEAHtlVpeF+iF0KSxLG3s7cfECdGJH4SiKjOOuvy02QB6NL\nztjZxH66tNAN+oxdOSZcrD8NT1Iu38ZQG2VathMiq2Vk56PLmbHQtOG2aF30+6lW\nUcUf1jjylGqLoekiDBxumvnPuYity4p4p/n2vlANbsLG4XHq4dF9/F6LNnqAZVoe\ndzpND2FZvxDJRk1Ky3OSsMo/rFJKfyw5BPs+lpscAHn6x8G98teOcXKjaz/xoSa8\njWVGFYjfWP/cW6BeaRbcAxHMzPytwd9ySKpN/8svny5AG9dYn0WjnwHA9Ieb4YuI\n9LEIuLqoxvG6rmxO5WTDrDylkTZnTrjQy9f8ck6XWQKBgQD8sacDgT+nGJerwELv\nCs2F8zkDLWcmBcaxBh4k+cmGj5TTtfOn+D80J52DyYI2yl5JWsrQ9jcdkeJTDhvS\ng/FH0PVp2tWq9A6XPinA0Mf/POPFBmty484JAJuHR097qADxuwzKVjsprXzw2lCJ\n6PCi4npLSm5e8w9ri2TN9bbUNQKBgQC3i/8o7V8NMZMXeEPv/Hs+oSmmEnZ8aWeE\nt0FaDBiIiFz1+ORvby93/X8aMOV0F+7NHrtXKh08HZQF4GahSczUrM2B09hl1xsL\nxtZfyHSxlyaZOIRnpGH01RmPeiYa12ZjXlRbCJ3DTTFh1IrPBfdd0KGXAlJbQRef\npCLkM4JXgwKBgQCy7/oceUHhyYBdlt/O9g9jc0BEB7qrKhvw7ywZcuhJ6RKyeH35\ny8i13fekguU6d0MdHrXQEwokXlGuDqeVAumwuT+Pne8AB6LtZo+agj2deDiyJEGi\nMb6MkWmQ+eZG4kkI5DPCdB2g/cEjrPSrM9BzB30iI6rUgbnBpgvT7NNyoQKBgDaD\nFZ0KIpjAiHcH+OVljxTiuIPiJ957T4tTAc3EmeSy2ykSaoXN98MjPoSA0STRltLE\ntc8FavlXr4avRsvQJ01ipQZR7IsSf63XuANqfX3g7k3DQ0+kupMEVzsNhBOktXv9\noAAJZxGB85Cilzc1BmqOc+9teRgxFNsM3G/5/FQRAoGBAK4r95MgKeROq92I5pz9\nG+iQvwLedvYNuj4JhcMYKde4JelTt/noZJrezm5adIcoqlBt0+MvmOTdV8NtZFC6\nZzln6ZXoZHvYU8s8a5Lkh/PShKN+8EM6HpkC5F6K3eOOvLl2wOu6CYkMJvrAwgRm\nYCH9H/FJ9prgRP/PJchGzqpO\n-----END PRIVATE KEY-----\n",
+  "client_email": "bucket-plant-admin@ambatoplant.iam.gserviceaccount.com",
+  "client_id": "117977410056831987527",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bucket-plant-admin%40ambatoplant.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

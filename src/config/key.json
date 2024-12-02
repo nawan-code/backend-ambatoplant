@@ -1,0 +1,14 @@
+{
+    "type": "service_account",
+    "project_id": "ambatoplant",
+    "private_key_id": "f94f38a5f83f6d4a6e686474ed55ba714b720fa3",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCnOzF6li4IiiJY\n7zPfEC8/QUuqCbfzq5eysJdE5R0uRGif2aW5lDMUUUxTRY8Cz6L87Hn7FahBEicq\ngc00Ja+RrpjcGzHWgNnuRG8vfcA+PllAkY7w1HvxVZw5TnS4oXaXaek8qEhG3xd2\nf/kyIBHHuHrx2X8QztPhzmk8zPtM/zLrdrFT1jkSCQisIZ6KSiW6ZzpwVuo8vCql\n1jp0JUdjc9BQOjw3xtw/ybFTkpaX2WFc2jz5bmU4+po3RsO8A6n47MvtbLN/+ApO\n/shUqJqx+MzD4gQmuO605iyMGY1RbcTCTzTpn34i0+kYNExXg7W9n8FAAB2vagKj\nS33ycfeRAgMBAAECggEAD78gIpXfkchIAa3MaZWhjUg9sq4llxkyOI4uQDt+quug\nGmUpGLdes+wPzst+8tnQVBaESeM5K59k9riwNNfTl1kkZZ1d7P/HBYuGGKezoWjH\niK/sELtBTHEuO6sqjHQPsaQ0ZRTHcXzyPaNBOLoSUocJdJpxP4jqJJoGCMaYZyB9\nlt3VGIpL0aIAWLto4s9uw3r33MpZ1ClGVtEis8ezqwonIVsbrizg/hq/FfYwfsEP\nk2dWWzibcxI0+ope279t3658ly0cy49lzgjU5SD+eMy4p4OK+BhlAhl8ggcS8wJA\nJXxXjvUhcsyAXtwoIrN3kV1OnTIKfticG7yOgLJIzQKBgQDS6E8hdw/tlvRgaoMm\nbpQ9U9kREi43QgIPPyLlobada1Ez0389/WKsqHic4exp0lb6jnKutjMuU8it1E+f\nbtSEoo5yopojF2mu5RdlkxAPLfKuruofy+irBdagk+0psMyQ3NKjAZtb8q9oU43I\nyB1aV5luRSRh/aH/u2Vwn94/bwKBgQDK/FVnW7NSVCJjsZhtpSKSspDYBuiUgjXq\nxxcpo+lbKOMCOi38eVdm2VREKb7MMsGRjrApzknUodayfCHFa/6/0g9Z7bPTS3ex\nBPzLbERjyEH16lBw6zScW13C1PhzoxGpDyh6tEGt86kUep7W6Hu112gailNYbVPm\nBLPjNJe4/wKBgQC/IciUi1Hj/ul4dw5jxdKRwWr2DYPUj/1N0+nMMMFN5/OvA/xM\nMVU7I3IqupOFUxl/95f2vSek1EkJP17pHYd6q9ZsDO+i3ZTo6rRJWP00xG8p31pN\ndn1kf+YBoA1NuuuoXHaHQu2IZmaQJShYzQHM3ZYuWHqgUzp8h1dmuXqwAQKBgQC2\nFED7lNs293ddm/nSKLXphzm8Pf408NQyhGH3nSt+9R8kaVHEzoejH0GiXxviCYlu\n6uKEraG2lXGD6ytT7vq10FSq4zlSSLjV1lZ4luaF5yWb1JJRp/oqYx6o3Ob8u4Lk\n9k7mOnlL82xwjUmcFzCZPd8JJ5l5kaAXjZJbNVr/uwKBgFaYuu7mKap5+dPbRxru\neMdJJakdqHi5XJczOCJL4fmF13LKUJKda2wo8WaEbbclOP+9ACQ86Ml77lBedd1T\naYLoM0EyzZmQzvz45HY7i/076fcu8Bmb+8B6KHM57NbW9oCPF9x1Q6k4gSbJpe1w\nYWpfQfPKNiTPy6cZ8fbte3dT\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-blosg@ambatoplant.iam.gserviceaccount.com",
+    "client_id": "117765305956203344603",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-blosg%40ambatoplant.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+  }
+  
